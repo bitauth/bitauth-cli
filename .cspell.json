@@ -1,0 +1,20 @@
+{
+  "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/master/cspell.schema.json",
+  "version": "0.1",
+  "language": "en",
+  "words": [
+    "bitauth",
+    "codecov",
+    "commandsstop",
+    "oclif",
+    "tocstop",
+    "usagestop"
+  ],
+  "flagWords": [],
+  "ignorePaths": [
+    "package.json",
+    "yarn.lock",
+    "tsconfig.json",
+    "node_modules/**"
+  ]
+}
