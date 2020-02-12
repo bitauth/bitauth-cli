@@ -36,11 +36,11 @@ Below you'll find the [`help`](#bitauth-help-command) output for all available c
 # Commands
 
 <!-- commands -->
-* [`bitauth autocomplete [SHELL]`](#bitauth-autocomplete-shell)
-* [`bitauth goodbye`](#bitauth-goodbye)
-* [`bitauth hello [FILE]`](#bitauth-hello-file)
-* [`bitauth help [COMMAND]`](#bitauth-help-command)
-* [`bitauth update [CHANNEL]`](#bitauth-update-channel)
+
+- [`bitauth autocomplete [SHELL]`](#bitauth-autocomplete-shell)
+- [`bitauth hello [FILE]`](#bitauth-hello-file)
+- [`bitauth help [COMMAND]`](#bitauth-help-command)
+- [`bitauth update [CHANNEL]`](#bitauth-update-channel)
 
 ## `bitauth autocomplete [SHELL]`
 
@@ -64,23 +64,6 @@ EXAMPLES
 ```
 
 _See code: [@oclif/plugin-autocomplete](https://github.com/oclif/plugin-autocomplete/blob/v0.1.5/src/commands/autocomplete/index.ts)_
-
-## `bitauth goodbye`
-
-short description here
-
-```
-USAGE
-  $ bitauth goodbye
-
-DESCRIPTION
-  Longer description here
-
-EXAMPLE
-  $ bitauth goodbye
-```
-
-_See code: [src/commands/goodbye.ts](https://github.com/bitauth/bitauth-cli/blob/v0.0.0/src/commands/goodbye.ts)_
 
 ## `bitauth hello [FILE]`
 
@@ -132,4 +115,5 @@ USAGE
 ```
 
 _See code: [@oclif/plugin-update](https://github.com/oclif/plugin-update/blob/v1.3.9/src/commands/update.ts)_
+
 <!-- commandsstop -->
