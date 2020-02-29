@@ -14,7 +14,10 @@ To install your modified version of BitAuth CLI, use [Yarn link](https://yarnpkg
 # clone the repo
 git clone https://github.com/bitauth/bitauth-cli.git
 cd bitauth-cli/
+
+#install dependencies
 yarn
+
 # replace your global `bitauth` with this project:
 yarn link
 ```
